@@ -1,0 +1,1 @@
+**Collaborative music playing system using Django and React**
